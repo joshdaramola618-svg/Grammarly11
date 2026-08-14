@@ -1,0 +1,15 @@
+{
+  "name": "grammarly-telegram-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for real-time grammar and spell check",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
